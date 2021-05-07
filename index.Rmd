@@ -1,5 +1,5 @@
 --- 
-title: "A Minimal Book Example"
+title: "Financial Institutions & Markets"
 author: "John Karuitha"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
