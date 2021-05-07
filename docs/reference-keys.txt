@@ -2,7 +2,7 @@ fig:nice-fig
 tab:nice-tab
 prerequisites
 intro
-literature
+background
 methods
 applications
 example-one
